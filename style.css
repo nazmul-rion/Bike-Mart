@@ -4,6 +4,10 @@ body{
     font-family: 'Poppins', sans-serif;
 }
 
+.maincolor{
+    color: #E76F51;
+}
+
 .header{
     background-color:#264653;
     color: white;
@@ -22,4 +26,7 @@ body{
 
 .introdescription{
     color: #E0E0E0;
+}
+.grayscale{
+    filter: grayscale(1);
 }
