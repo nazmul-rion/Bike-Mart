@@ -24,9 +24,20 @@ body{
     color: orangered;
 }
 
-.introdescription{
+.intro-description{
     color: #E0E0E0;
 }
 .grayscale{
     filter: grayscale(1);
 }
+
+.headingtext{
+color: #0A0826;
+}
+.card-title{
+    color: #18191F;
+}
+.card-text{
+    color: #6C6C6C;
+}
+
